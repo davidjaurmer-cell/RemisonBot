@@ -1,0 +1,15 @@
+export const statusLabelMap = {
+  CREADO: "Creado",
+  EN_DESCARGA: "En descarga",
+  DESCARGADO: "Descargado",
+  EN_EXTRACCION: "En extracción",
+  EXTRAIDO: "Extraído",
+  VALIDADA: "Validada",
+  CARTA_TERCEROS: "Carta terceros",
+  REENVIAR_REMISION: "Reenviar remisión",
+  REVISION_MANUAL: "Revisión manual",
+  PENDIENTE: "Pendiente",
+  INCIDENCIA: "Incidencia",
+  CASO_ESPECIAL: "Caso especial",
+  CERRADO: "Cerrado",
+};
